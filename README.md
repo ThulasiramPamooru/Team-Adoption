@@ -1,7 +1,7 @@
 # FlowGuard — AI Engineering Delivery Platform
 
 > Safe, tested, reviewed feature delivery in 7 locked phases.
-> Built for **Team Adoption** at Dolcera — integrates with **Jira DIPA**, **GitHub**, and **Playwright**.
+> Built for **Team Adoption** at IP Author — integrates with **Jira DIPA**, **GitHub**, and **Playwright**.
 
 ---
 
@@ -137,4 +137,4 @@ Add at: `https://github.com/ThulasiramPamooru/Team-Adoption/settings/secrets/act
 
 ---
 
-*FlowGuard v1.0.0 — Built by Dolcera Engineering*
+*FlowGuard v1.0.0 — Built by IP Author Engineering*
