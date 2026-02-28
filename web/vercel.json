@@ -1,0 +1,15 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "framework": "vite",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ],
+  "env": {
+    "VITE_API_URL": "@flowguard_api_url",
+    "VITE_WS_URL": "@flowguard_ws_url",
+    "VITE_AUTH0_DOMAIN": "@auth0_domain",
+    "VITE_AUTH0_CLIENT_ID": "@auth0_client_id",
+    "VITE_AUTH0_AUDIENCE": "@auth0_audience"
+  }
+}
